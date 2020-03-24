@@ -20,6 +20,19 @@
 
 ## 2º dia (24/03/2020) - Criando a base da aplicação
 
+* Node.js & Express
+  * Rotas e recursos
+  * Métodos HTTP
+  * Tipos de parâmetros
+* Utilizando o Insomnia
+* Configurando Nodemon
+* Diferenças entre bancos de dados
+* Configurando banco de dados
+* Pensando nas entidades e funcionalidades
+* Construção do back-end
+* Adicionando módulo CORS
+* Enviando back-end ao Github
+
 ## 3º dia (25/03/2020) - Construindo a interface web
 
 ## 4º dia (26/03/2020) - Desenvolvendo o app mobile
