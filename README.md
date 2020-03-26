@@ -35,6 +35,44 @@
 
 ## 3º dia (25/03/2020) - Construindo a interface web
 
+* Limpando estrutura
+* Conceitos do React
+  * Componente
+  * JSX
+  * Propriedades
+  * Estado
+  * Imutabilidade
+* Página de Login
+* Configurando rotas
+* Cadastro de ONGs
+* Listagem de casos
+* Cadastro de um novo caso
+* Conectando aplicação à API
+* Enviando projeto ao Github
+
 ## 4º dia (26/03/2020) - Desenvolvendo o app mobile
+
+* Instalando Expo
+* Criando projeto React Native
+* Executando projeto
+  * No celular
+  * Emuladores
+  * Expo Snack
+* Diferenaças para o ReactJS
+  * Elementos HTML
+  * Semântica
+  * Estilização
+    * Flexbox
+    * Propriedades
+    * Herança de estilos
+    * Estilização própria
+* Estrutura de pastas
+* Ícone e Splash Screen
+* Configurando navegação
+* Página de casos
+* Detalhe do caso
+* Abrindo Whatsapp & E-mail
+* Conexão com a API
+* Enviando projeto ao Github
 
 ## 5º dia (27/03/2020) - Funcionalidades avançadas
