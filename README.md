@@ -4,7 +4,7 @@
 
   Durante a semana será desenvolvido uma plataforma para facilitar a comunicação entre as Ongs que necessitam de apoio financeiro com voluntários dispostos a ajudá-las. Essa plataforma contara com uma versão Web, que será utilizada pelas Ongs para cadastrarem as suas necessidades e uma versão Mobile que será usada pelos voluntários para encontrar as causas com que mais se indentificam, ou desejam ajudar.
 
-  O Projeto foi dividido em 5 aulas/dias:
+  O Projeto foi dividido em 5 aulas/dias, com o seguinte conteúdo:
 
 ## 1º dia (23/03/2020) - Conhecendo a OmniStack
 
@@ -76,3 +76,23 @@
 * Enviando projeto ao Github
 
 ## 5º dia (27/03/2020) - Funcionalidades avançadas
+
+* Adicionando validação
+* Adicionando testes
+  * Por que fazer testes?
+  * TDD (Test-Driven Develoment)
+  * Configurando Jest
+  * Tipos de testes
+  * Configurando banco dde dados
+  * Instalando supertest
+  * Testando rota de autenticação
+* Deploy
+  * Alternativas
+  * Qual escolher?
+* Estudos daque pra frente
+  * Padrões de código: ESLint, Prettier
+  * Autenticação JWT
+  * Styled Components
+* Dicas para aproveitar melhor
+  * Github
+  * Linkedin
